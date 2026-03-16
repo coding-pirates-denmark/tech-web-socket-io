@@ -92,8 +92,8 @@ Dette repo forklarer kun hvad Socket.IO er.
 
 Hvis du vil lære at bruge det, så finder du tutorials i repos som:
 
-- guides-web-socket-io-01-simple-chat-app
-- guides-web-socket-io-02-usernames-chat-app
+- [guides-web-socket-io-00-getting-started](https://github.com/coding-pirates-denmark/guides-web-socket-io-00-getting-started)
+- [guides-web-socket-io-01-simple-chat-app](https://github.com/coding-pirates-denmark/guides-web-socket-io-01-simpel-chat-app)
 - flere kommer…
 
 ## 🤝 Bidrag
