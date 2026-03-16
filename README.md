@@ -94,5 +94,5 @@ Hvis du vil lære at bruge det, så finder du tutorials i repos som:
 - guides-web-socket-io-02-usernames-chat-app
 - flere kommer…
 
-🤝 Bidrag
+## 🤝 Bidrag
 Dette repo er lavet til Coding Pirates Denmark, så både børn og voksne kan lære teknologi på en sjov og forståelig måde.
