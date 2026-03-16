@@ -5,6 +5,8 @@ _Dette repo beskriver og forklarer så kort som muligt både voksne og børn om 
 1. [Om Socket.IO](#-om-socket-io)
 2. [For voksne](#-for-voksne)
 3. [For børn](#-for-børn)
+4. [Hvor finder jeg guides?](#-hvor-finder-jeg-guides)
+5. [Bidrag](#-bidrag)
 
 
 ## Om Socket.IO
